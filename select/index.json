@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "知っちゃった",
+  "base_artist": "椎乃味醂",
+  "createdAt": "2026-01-02T14:30:04.697887Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "知っちゃった",
+      "artist": "椎乃味醂",
+      "has_synced": false,
+      "path": "select/pl_01_知っちゃった_椎乃味醂.txt"
+    }
+  ]
+}
